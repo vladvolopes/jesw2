@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @jesw2
 - 👀 I’m interested in anime,manga,novels,coding,gaming
-- 🌱 I’m currently learning integration
+- 🌱 I’m currently learning C, Java, Python
